@@ -1,0 +1,4 @@
+/node_modules
+.env
+*.pem
+client/dist/bundle.js
